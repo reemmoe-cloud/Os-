@@ -1,0 +1,7 @@
+{
+  "name": "Yellow OS",
+  "description": "A vibrant, iPad-inspired operating system featuring the Cat Browser powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
